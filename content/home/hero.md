@@ -1,27 +1,28 @@
 ---
+cta_note:
+  ? label
+advanced:
+  css_class: fullscreen
 widget: hero
-headless: true
-weight: 10
-title: Online Course Template
-hero_media: teacher.png
-design:
-  background:
-    gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
-    text_color_light: false
 cta:
-  url: '#courses'
+  url: "#courses"
   label: Explore our courses
   icon_pack: fas
   icon: user-graduate
+widget_id: Let's get ludic
+headless: true
+weight: 10
+title: Online Course Template
 cta_alt:
-  url:
-  label:
-cta_note:
-  label:
-advanced:
-  css_class: fullscreen
+  ? url
+  ? label
+design:
+  background:
+    gradient_angle: 0
+    gradient_start: "#867ade"
+    gradient_end: "#b2ec91"
+    text_color_light: false
+hero_media: teacher.png
 ---
 
 <br>
