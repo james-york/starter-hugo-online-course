@@ -22,7 +22,7 @@ design:
     gradient_start: "#b2ec91"
     gradient_end: "#867ade"
     text_color_light: false
-hero_media: teacher.png
+hero_media: james-LLP-profile.png
 ---
 
 <br>

@@ -1,25 +1,28 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jonathan deHaan
+
+# Username (this should match the folder name)
+authors:
+  - Jonathan deHaan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Python Instructor
+role: Pedagogy expert
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Shizuoka
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm interested in the transformational power of games and play.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Pedagogy of Multiliteracies
+  - Metal Gear Solid
 
 education:
   courses:
@@ -40,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:dehaan@u-shizuoka-ken.ac.jp'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -50,9 +53,6 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
