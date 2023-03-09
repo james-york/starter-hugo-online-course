@@ -23,7 +23,18 @@ tags:
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+As we move further into the 21st century, society is placing {{<hl>}}ever-increasing demands on the teaching profession{{</hl>}}. The expectations for teachers have become heightened in terms of their knowledge, teaching skills, and level of engagement with their students. These expectations have created challenges that have become particularly difficult to meet in today's educational climate. 
+
+- 🤔 What skills do students need?
+- 🤔 How can I integrate technology into classes?
+- 🤔 How can I create {{<hl>}}gratifying, fun classes{{</hl>}} yet still hit targets?
+
+In our 5-week course, we will help you {{<hl>}}improve various literacy skills{{</hl>}} to become the best teacher you can.
+
+- Ludic literacy
+- Language literacy
+- Pedagogical literacy
+
 
 ## Courses in this program
 
@@ -43,4 +54,4 @@ There are no prerequisites for the first course.
 Continuously, at your own pace.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="📧 Email us about this course" cta_link="../../contact" >}}
