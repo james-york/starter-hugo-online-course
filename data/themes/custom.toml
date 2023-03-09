@@ -3,16 +3,16 @@ name = "Custom Theme"
 
 [light]
   # Primary
-  primary = "#0072ff"
+  primary = "#9351b6"
 
   # Links
-  link = "#3273dc"
-  link_hover = "rgb(54, 54, 54)"
+  link = "#9351b6"
+  link_hover = "#333333"
 
   # Menu
   menu_primary = "#867ade"
   menu_text = "#000"
-  menu_text_active = "#0072ff"
+  menu_text_active = "#9351b6"
   menu_title = "#000"
 
   # Home sections

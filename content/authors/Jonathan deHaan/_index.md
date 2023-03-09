@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in the transformational power of games and play.
+bio: I'm interested in the transformational power of games and play in literacy teaching contexts.
 
 interests:
   - Pedagogy of Multiliteracies
@@ -26,15 +26,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Ph.D. Educational Communication and Technology
+      institution: New York University
       year: 2008
+    - course: M.A. TESOL (Teaching English to Speakers of Other Languages)
+      institution: Michigan State University,
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,12 +41,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:dehaan@u-shizuoka-ken.ac.jp'
-  - icon: twitter
+  - icon: google
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=jopJtIYAAAAJ&hl=en&oi=ao
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -60,4 +54,14 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I study, teach and design games and simulations. I am particularly interested in literacy and language learning and teaching. 
+
+I am an Associate Professor in the Faculty of International Relations at the [University of Shizuoka](http://www.u-shizuoka-ken.ac.jp/), Japan. 
+
+I am the director of the [Game Lab](https://sites.google.com/site/gamelabshizuoka/) at the University of Shizuoka. 
+
+- [This](https://docs.google.com/document/d/1fe1WAEChWJky3a4Ul16RzXkt1bgP3-86wSkd1XLFEY8/edit) is my CV.  
+- [This](https://scholar.google.co.jp/citations?user=jopJtIYAAAAJ&hl=en) is my Google Scholar profile. 
+- [This](http://db.u-shizuoka-ken.ac.jp/show/prof356.html) is my profile page at the University of Shizuoka.
+
+I co-edit the [Ludic Language Pedagogy](https://llpjournal.org/) journal with Dr. James York.
