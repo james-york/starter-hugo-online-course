@@ -1,5 +1,5 @@
 ---
-title: James publishes a chapter on "Pro-gamer inspired speaking assessment."
+title: James published a chapter on "Pro-gamer inspired speaking assessment."
 date: 2023-03-08
 # tags:
 # - james york
@@ -21,7 +21,3 @@ Available here: https://link.springer.com/chapter/10.1007/978-3-031-18950-0_15
 ## Citation details
 
 York, J. (2023). Pro-Gamer Inspired Speaking Assessment. In: Chong, S.W., Reinders, H. (eds) Innovation in Learning-Oriented Language Assessment. New Language Learning and Teaching Environments. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-031-18950-0_15
-
-## 🏴‍☠️ Need a copy?
-
-[Contact us]({{< ref "contact" >}} "Contact Us") for a pre-print version.

@@ -43,9 +43,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/cheapshot
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@cheapshot
   - icon: discord
     icon_pack: fab
     link: https://discord.gg/je9QZsnntf
