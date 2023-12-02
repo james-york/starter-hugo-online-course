@@ -38,9 +38,7 @@ design:
   columns: '1'
 ---
 
-Want to book us for a workshop, a consultation, or something else?
+Want to book us for a workshop, a consultation, or just to chat?
 
-Or, do you just want to chat? 
-
-We're always happy to chat, so please get in touch below:
+Please get in touch via the email address below.
 
